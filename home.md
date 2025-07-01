@@ -2,9 +2,9 @@
 
 ## Create, Share and Collaborate
 
-![Photo of Mountain](images/mountain.jpg)
+![Photo of Mountain](screenshot.png)
 
-  woooooooooooooooo 
+  wo
 
 [Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
 
@@ -12,9 +12,20 @@
 
 **Markdown** is a system-independent markup language that is easier to learn and use than **HTML**.
 
-![Figure 1: The Markdown Mark](images/markdown-red.png)
+```
+Nmap scan report for <Victim IP>
+Host is up (0.0049s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT STATE SERVICE
+25/tcp open smtp
+80/tcp open http
+143/tcp open imap
+587/tcp open submission
+993/tcp open imaps
+3389/tcp open ms-wbt-server
+```
 
-Some of the key benefits are:
+MAC Address: 00:0C:29:FE:3A:FF (VMware)
 
 1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
 2. Less chance of errors when writing in markdown.
